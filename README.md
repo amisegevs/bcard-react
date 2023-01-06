@@ -1,2 +1,2 @@
 # bcard-react
-business card app in react
+business card app with MERN
